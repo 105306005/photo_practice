@@ -1,3 +1,4 @@
+# using React and Pexels api - You could request your own Pexels api from their website!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
